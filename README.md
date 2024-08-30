@@ -1,5 +1,7 @@
 # Fala maluco🌹🐇🦡
+
 Meu nome é Caio daora
+
 - Estou estudando na Alura, ineflizmente
 - Estou me desenvolvendo na linguagem JavaScript, eu acho
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos. sim.
